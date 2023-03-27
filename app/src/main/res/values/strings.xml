@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Encyklopedia zwierząt</string>
+    <string name="tekstKot">Kot domowy (Felis catus, również Felis silvestris catus) – udomowiony
+        gatunek ssaka z rzędu drapieżnych z rodziny kotowatych. Koty zostały udomowione około 9500
+        lat temu i są obecnie najpopularniejszymi zwierzętami domowymi na świecie. Gatunek ten
+        prawdopodobnie pochodzi od kota nubijskiego, przy czym w Europie krzyżował się ze żbikiem.
+        Przez IUCN/SSC jest uznawany za gatunek inwazyjny.</string>
+    <string name="tekstPies">Pies domowy (Canis familiaris) – udomowiony gatunek ssaka drapieżnego
+        z rodziny psowatych (Canidae), traktowany przez niektóre ujęcia systematyczne za podgatunek
+        wilka, a przez inne za odrębny gatunek, opisywany pod synonimicznymi nazwami Canis lupus
+        familiaris lub Canis familiaris. Od czasu jego udomowienia powstało wiele ras, znacznie
+        różniących się morfologią i cechami użytkowymi.</string>
+    <string name="tekstKon">Koń domowy (Equus caballus) – gatunek udomowionego ssaka
+        nieparzystokopytnego z rodziny koniowatych (Equuidae). Koń po raz pierwszy został udomowiony
+        prawdopodobnie na terenie północnego Kazachstanu w okresie kultury Botai, tj. około 3,5 tys.
+        lat p.n.e. Obecnie przedstawiciele 18 z 21 współczesnych ras hodowlanych pochodzą od dwóch
+        linii – arabskiej i turkmeńskiej.</string>
+</resources>
